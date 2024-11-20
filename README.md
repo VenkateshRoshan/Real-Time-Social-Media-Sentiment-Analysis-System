@@ -69,8 +69,8 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/social-media-sentiment.git
-cd social-media-sentiment
+git clone https://github.com/VenkateshRoshan/Real-Time-Social-Media-Sentiment-Analysis-System.git
+cd Real-Time-Social-Media-Sentiment-Analysis-System
 
 # Create virtual environment
 python -m venv venv
