@@ -234,40 +234,6 @@ The system can be scaled by:
 4. Push to branch
 5. Create pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- Project Lead: [Name](mailto:email@example.com)
-- ML Engineer: [Name](mailto:email@example.com)
-- Data Engineer: [Name](mailto:email@example.com)
-- DevOps Engineer: [Name](mailto:email@example.com)
-
-## 📚 Documentation
-
-Detailed documentation available in the [docs](docs/) directory:
-- [Architecture Guide](docs/architecture.md)
-- [API Documentation](docs/api.md)
-- [Deployment Guide](docs/deployment.md)
-- [Monitoring Guide](docs/monitoring.md)
-
-## 🔗 Additional Resources
-
-- [Project Wiki](wiki/)
-- [API Documentation](api-docs/)
-- [System Design Doc](design-doc/)
-- [Performance Reports](reports/)
-
-## 🤔 FAQs
-
-Q: How do I add a new model variant?
-A: Add model configuration in `config/models.yaml` and update the A/B testing configuration.
-
-Q: How do I scale the system?
-A: Modify `kubernetes/deployment.yaml` to adjust resource allocation and replica count.
-
 ## 🚧 Roadmap
 
 - [ ] Multi-language support
@@ -280,4 +246,4 @@ A: Modify `kubernetes/deployment.yaml` to adjust resource allocation and replica
 
 For issues and support:
 - Create an [Issue](https://github.com/yourusername/social-media-sentiment/issues)
-- Email: support@project.com
+- Email: butchivenkatesh.a@gmail.com
